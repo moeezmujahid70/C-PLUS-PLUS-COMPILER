@@ -1,0 +1,4 @@
+Symtax error : < id,arg2 >
+< error,m >
+Symtax error : < keyword,int >
+< error,w >

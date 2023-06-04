@@ -1,0 +1,42 @@
+int main()
+{
+cout<<"Moiz is cool programmer";
+cout<<"testing my compiler";
+cin >>x121;
+
+cout<<"hi"<<endl;
+
+cin>>v45_;
+
+int t4=3525.242;
+
+int x1 = z1 + 6;
+float c0 =v2 + 56;
+int f3 =f4 + 45;
+agar(x1!=c2)
+{
+return false;
+}
+
+if(v_ == v2 & v2 > 2)
+return true;
+
+int aa= b2;
+
+char c1[]="this is testing";
+char c2='t';
+
+float g9 = gh;
+
+if(x3 > 15)
+{
+   v3=10;
+}
+
+class Test_
+{
+};
+
+retuen 0;
+
+}

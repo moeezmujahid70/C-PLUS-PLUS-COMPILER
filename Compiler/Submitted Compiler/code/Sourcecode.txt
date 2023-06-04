@@ -1,0 +1,44 @@
+int main_ (int arg1 , arg2)
+[
+int m
+int x_ , y_;
+float w;
+float z_,t_;
+
+z_:=x_ - y_ * t_ + 8;
+
+
+x_ := 10;
+y_ := 20;
+
+t_:=x_;
+
+while <x_ < y_>
+[
+   x_:= x_ + 1;
+
+   while <x_ > y_>
+   [
+      y_ := y_ + 1;
+   ]
+]
+
+
+
+
+
+if < x_ > y_ >
+[
+  x_ := x_ + 1;
+]
+else
+[
+  y_ := y_ / z_;
+]
+
+if < x_ > 1 >
+[
+     x_ := x_ * 4 ;
+]
+
+]
